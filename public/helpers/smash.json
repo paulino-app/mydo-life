@@ -1,0 +1,29 @@
+{
+  "smash64": [
+    {
+      "nombre": "PaoDev",
+      "arquetipo1": "Director",
+      "photo": "/images/pao_dev_logo.png"
+    },
+    {
+      "nombre": "Dash64",
+      "arquetipo1": "Programador",
+      "photo": "/images/dash_64_logo.png"
+    },
+    {
+      "nombre": "Mr Uru",
+      "arquetipo1": "Artista y diseñador",
+      "photo": "/images/mr_uru_logo.png"
+    },
+    {
+      "nombre": "Yazid",
+      "arquetipo1": "Diseñador",
+      "photo": "/images/yazid_logo.png"
+    },
+    {
+      "nombre": "Kaizer",
+      "arquetipo1": "Editor de videos",
+      "photo": "/images/kaiser_logo.png"
+    }
+  ]
+}
