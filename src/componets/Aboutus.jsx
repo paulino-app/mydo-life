@@ -19,6 +19,7 @@ const Aboutus = () => {
             backgroundColor: '#DFDFD',
             marginTop: 25
           }}
+          className="floating"
           image="images/mydo.png"
         />
       </div>

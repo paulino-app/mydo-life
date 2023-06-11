@@ -56,7 +56,6 @@ function App() {
           name="#contacto"
           style={{
             zIndex: 9,
-            borderColor: 'red'
           }}
         >
           <Contact />

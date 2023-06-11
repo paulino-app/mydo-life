@@ -59,7 +59,7 @@ const Mainteam = () => {
   };
 
   return (
-    <div className="card">
+    <div className="card" style={{border: 'none'}}>
       <div style={{ zIndex: 10 }}>
         <Lottie animationData={animacion} loop={true} autoPlay={true} />
       </div>
@@ -83,8 +83,8 @@ const Mainteam = () => {
         itemTemplate={membersTeam}
         style={{
           backgroundColor: '#6ACC53',
-          paddingTop: 75,
-          paddingBottom: 75
+          paddingTop: 112,
+          paddingBottom: 112
         }}
         showIndicators={false}
         circular={true}
